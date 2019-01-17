@@ -7,8 +7,8 @@
 
 
 ## Open positions in Hyperledger Fabric, Ethereum development, ML/RL, Python, cloud computing, web/app development:
-- **Research intern**: we are looking for exceptional students who are willing to spend 4-5 months full-time in our team.
+- **Research intern**: we are looking for exceptional students who are willing to spend 4-5 months full-time here.
 
-- **Full-time developer** with evidence of software project completions in the above areas.
+- **Full-time developer** with demonstrable experience in the above areas.
 
-- The positions will be based at the School of Computer Science and Engineering, NTU, Singapore.
+- The positions will be based at the School of Computer Science and Engineering, NTU, Singapore. Contact: Ta Duong @ SCSE, NTU.
