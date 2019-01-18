@@ -13,6 +13,6 @@
 
 - The positions will be based at the School of Computer Science and Engineering, NTU, Singapore. Contact: Ta Duong @ SCSE, NTU.
 
-## Team
+## Team and Collaborators
 - **Ta Duong**, SCSE, NTU, Singapore
 - [**Hong-Linh Truong**](https://users.aalto.fi/~truongh4/), [AaltoSEA Group](http://rdsea.github.io),  Department of Computer Science, Aalto University, Finland
