@@ -16,3 +16,6 @@
 ## Team and Collaborators
 - **Ta Duong**, SCSE, NTU, Singapore
 - [**Hong-Linh Truong**](https://users.aalto.fi/~truongh4/), [AaltoSEA Group](http://rdsea.github.io),  Department of Computer Science, Aalto University, Finland
+
+## Publications
+- Ta Duong, Ketan Kumar Todi, Umang Chaudhary, Hong-Linh Truong, [Decentralizing Air Traffic Flow Management with Blockchain-based Reinforcement Learning](https://users.aalto.fi/~truongh4/publications/2019/truong-indin2019.pdf),[The 2019 IEEE International Conference on Industrial Informatics (INDIN’19)](https://www.indin2019.org/),22-25 July 2019, Helsinki-Espoo, Finland 
